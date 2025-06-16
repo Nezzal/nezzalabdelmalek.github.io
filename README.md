@@ -1,4 +1,5 @@
-# nezzalabdelmalek.maladiesprofessionnelle.github.ios
+# nezzalabdelmalek.github.io
+
 Application de Consultation des Tableaux de Maladies ProfessionnellesÀ propos du projetCette application web est un outil interactif conçu pour la consultation et la recherche au sein des 85 tableaux des maladies professionnelles, 
 conformément à la réglementation Algérienne. 
 
